@@ -1,2 +1,0 @@
-# lotr
-LOTR Data 
